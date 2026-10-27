@@ -4,7 +4,7 @@
 
 This is the official **public distribution repository** for **METApolis Photo Lab for Windows**. It is intended for **installer downloads, version announcements, and signed update metadata only**.
 
-> **Release status:** The first Windows installer has not yet been built, tested, or published. There is currently no official setup EXE to download.
+> **Release status:** The Windows v1.0.0 installer has been compiled locally and automated Windows tests passed. Final smoke testing of the latest 16-bit export correction, public asset upload, and signed update-feed publication are still pending. There is currently no official Setup.exe available for public download.
 
 ## Download
 
