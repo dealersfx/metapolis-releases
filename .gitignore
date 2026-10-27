@@ -1,0 +1,47 @@
+# Public distribution repo: store only release metadata and documentation here.
+# Installer EXEs belong in GitHub Releases, not Git commits.
+
+# Never commit source/bundled source archives
+*.py
+*.pyc
+*.pyo
+*.whl
+*.tar
+*.tar.gz
+*.zip
+*.7z
+*.rar
+*.spec
+*.iss
+__pycache__/
+.venv*/
+venv*/
+dist/
+build/
+artifacts/
+
+# Never commit credentials or update signing secrets
+*.pem
+*.p12
+*.pfx
+*.key
+*.secret
+.env
+.env.*
+**/secrets/
+**/credentials/
+
+# Never commit raw images, photo catalogs or user data
+*.cr2
+*.cr3
+*.nef
+*.arw
+*.dng
+*.raf
+*.orf
+*.rw2
+*.sqlite
+*.sqlite3
+*.db
+*.mplab
+*.mplab-project
