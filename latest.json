@@ -1,11 +1,11 @@
 {
   "signed": {
     "schema": 1,
-    "version": "1.0.1",
-    "installer_url": "https://github.com/dealersfx/metapolis-releases/releases/download/v1.0.1/METApolis_Photo_Lab_v1.0.1_Setup.exe",
-    "sha256": "17d38fce1f398c9b157d55323d5cab18b671b368c4bd9aa1b53254a1e58c252c",
-    "size": 70734578,
-    "notes": "Solarization, negative effect, bilingual manuals, METApolis branding and sky-mask navigation fix."
+    "version": "1.0.2",
+    "installer_url": "https://github.com/dealersfx/metapolis-releases/releases/download/v1.0.2/METApolis_Photo_Lab_v1.0.2_Setup.exe",
+    "sha256": "8e3e7dd95d9c5bb88e7b729d778ec7bb58fe7e57e987f2ed94f26024243b1a40",
+    "size": 72569457,
+    "notes": "Library: named and archived Working Sets, enlarged previews, golden clickable stars, and stable browsing. Develop: visible editable numeric adjustments, synchronized sliders, and Undo/Redo."
   },
-  "signature": "ie4dDPKnvaO2FRrcCXE9HHGZEutmH93h3fz0FzScbGRaRgiF83h6DwDh0p/b0LI3XklfhRTDGsPvHG39xLY8CQ=="
+  "signature": "Tan1QaQDx6Z3ubfJFVqOcdoj66lDDCqUnX+kxgFS51fMYFzCaHuRI4WDS8reqM/49YAWQJC2/WMx9PILKi2pBA=="
 }
